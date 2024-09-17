@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">An avid learner</h3>
 
-- 🔭 I’m currently working on [a Cyberpunk web art tribute page](https://github.com/al0cam/cyberpunk)
+- 🔭 I’m currently working on [an Obsidian plugin](https://github.com/al0cam/AutoMover)
 
 - 📫 How to reach me **https://www.linkedin.com/in/benjamin-filip-%c5%a1ika%c4%8d/**
 
