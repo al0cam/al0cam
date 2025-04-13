@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an Obsidian plugin to automatically move files into designated folder called [AutoMover](https://github.com/al0cam/AutoMover)
 
-- 📫 How to reach me **https://www.linkedin.com/in/benjamin-filip-%c5%a1ika%c4%8d/**
+- 📫 How to reach me **https://www.linkedin.com/in/benjamin-filip-%c5%a1ika%c4%8d/** or benjaminsikac@gmail.com
 
 - ⚡ Fun fact **I like psychology and philosophy**
 
